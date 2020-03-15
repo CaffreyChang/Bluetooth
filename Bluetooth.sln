@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Bluetooth", "App.Bluetooth\App.Bluetooth.csproj", "{93C3C658-76D8-47C7-9FCA-FB1163586061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Bluetooth.ConsolePlayground", "App.Bluetooth.ConsolePlayground\App.Bluetooth.ConsolePlayground.csproj", "{2FBD7B79-7846-4049-B2A7-CBDF42BFCFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C3C658-76D8-47C7-9FCA-FB1163586061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C3C658-76D8-47C7-9FCA-FB1163586061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C3C658-76D8-47C7-9FCA-FB1163586061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C3C658-76D8-47C7-9FCA-FB1163586061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBD7B79-7846-4049-B2A7-CBDF42BFCFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBD7B79-7846-4049-B2A7-CBDF42BFCFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBD7B79-7846-4049-B2A7-CBDF42BFCFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBD7B79-7846-4049-B2A7-CBDF42BFCFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C870B899-8BF6-4AA2-8007-63A02E8576E4}
+	EndGlobalSection
+EndGlobal
